@@ -2732,7 +2732,7 @@ ul {
   width: 31%;
   height: 59%;
   content: "";
-  background-image: url(../img/native.png);
+  background-image: url(../img/native1.png);
   background-size: 100% 100%;
   right: 9%;
 }
@@ -2745,7 +2745,7 @@ ul {
     max-width: 100%;
     max-height: 100%;
     content: "";
-    background-image: url(../img/native.png);
+    background-image: url(../img/native1.png);
     background-size: contain;
     right: 0;
     left: 0;
