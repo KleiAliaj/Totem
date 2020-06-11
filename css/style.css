@@ -22,6 +22,8 @@ body {
   font-size: 14px;
 }
 
+
+
 /* line 9, E:/172 Etrain Education/172_Etrain_Education_html/sass/_common.scss */
 .message_submit_form:focus {
   outline: none;
@@ -2202,7 +2204,7 @@ ul {
 
 /* line 46, E:/172 Etrain Education/172_Etrain_Education_html/sass/_menu.scss */
 .main_menu .main-menu-item ul li .nav-link:hover {
-  color: #ee390f;
+  color: #ee390f !important;
 }
 
 /* line 51, E:/172 Etrain Education/172_Etrain_Education_html/sass/_menu.scss */
@@ -2796,7 +2798,7 @@ div.input-text{
     margin: 0 auto;
     background-repeat: no-repeat;
   }
-}
+}  
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 164, E:/172 Etrain Education/172_Etrain_Education_html/sass/_banner.scss */
